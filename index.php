@@ -10,40 +10,26 @@
 </head>
 <body>
 
-<h1 id="alter">Alter</h1>
+<?php include 'element/navbar.php'; ?>
 
-<header>
-
-    <nav class="menu">
-        <ul>
-        <li> <a href="www.google.com">Accueil </a></li>
-        <li> <a href="www.google.com">Présentation</a></li>
-        <li> <a href="www.google.com">Sujets</a></li>
-        <li><a href="www.google.com">Communautés</a></li>
-        <li><a href="www.google.com">Don </a></li>
-        </ul>
-
-    </nav>
-
-</header>
 
   <div class="container">
 
-    <form>
+    <form method="get" action="assets/connecte.php">
         <div class="form-group">
-          <label for="exampleInputEmail1">Email address</label>
+          <label for="exampleInputEmail1">Adresse Mail</label>
           <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
           
         </div>
         <div class="form-group">
-          <label for="exampleInputPassword1">Password</label>
+          <label for="exampleInputPassword1">Mot de passe</label>
           <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
         </div>
         <div class="form-check">
           <input type="checkbox" class="form-check-input" id="exampleCheck1">
           <label class="form-check-label" for="exampleCheck1">Check me out</label>
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" class="btn btn-primary">Envoyez</button>
       </form>
  
 
