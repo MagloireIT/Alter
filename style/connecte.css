@@ -1,0 +1,18 @@
+hr{ 
+  
+    border:         none;
+    border-left:    1px solid hsla(200, 10%, 50%,100);
+    height:         100vh;
+    width:          1px;       
+}
+
+
+article:hover {
+
+    background-color: darkgray;
+
+}
+
+h4 {
+    text-align: center;
+}

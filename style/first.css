@@ -1,0 +1,22 @@
+form {
+    margin-top: 10%;
+    background-color: grey;
+    border: 5px solid grey;
+    padding: 12px;
+    border-radius: 3px;
+}
+
+footer {
+    text-align: center;
+   
+
+}
+
+.explicatif {
+   margin-top: 5%;
+   text-align: justify;
+}
+
+.aside {
+    margin-top: 7%;
+}

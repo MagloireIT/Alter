@@ -1,0 +1,37 @@
+
+#alter {
+    background-color: blueviolet;
+    color: cornsilk;
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid blueviolet;
+    border-radius: 3px;
+}
+
+.menu li {
+    display: inline;  
+    padding: 15px;     
+}
+
+.menu li a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+li:hover {
+    background-color:blueviolet;
+}
+
+
+.menu {
+    background-color: grey;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 3px;
+    
+}
+
+.menu ul {
+    padding-top: 15px;
+}
+
