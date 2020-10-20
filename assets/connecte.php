@@ -49,19 +49,68 @@
                   <div class="p-2"> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ex porro repellat tempora? Doloru
                       m possimus, nobis facilis voluptatibus reprehenderit veniam adipisci hic blandi
                       tiis, cumque ullam fugiat, assumenda in officia amet. </p></div>
+
+                     
+                     
             </div>
 
-
-
-        
+               <hr style="background-color:black;">
                   
+               <table class="table table-striped table-dark">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nom du film</th>
+      <th scope="col"></th>
+      <th scope="col">Année de sortie</th>
+      <th scope="col">Acteur</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Antebellum</td>
+      <td><img src="../img/Antebellum.png" class="img-fluid" style="width:150px;" alt="Antebellum"></td>
+      <td>2020</td>
+      <td>Janelle Monae</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Tenet</td>
+      <td> <img src="../img/tenet.jpg" class="img-fluid" style="width:150px;" alt="Antebellum">     </td>
+      <td>2020</td>
+      <td>John David Washington</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             
             
             
             
             </div>
 
-             <div class="col-md-1"> <hr> </div>
+             <div class="col-md-1"> <hr id="barre"> </div>
              <div class="col-md-2">
                  
                 <aside> <h3>Film a commenter</h3>

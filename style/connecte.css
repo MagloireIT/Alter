@@ -1,4 +1,4 @@
-hr{ 
+#barre{ 
   
     border:         none;
     border-left:    1px solid hsla(200, 10%, 50%,100);
@@ -15,4 +15,8 @@ article:hover {
 
 h4 {
     text-align: center;
+}
+
+table {
+    
 }
